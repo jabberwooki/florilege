@@ -1,4 +1,4 @@
-uuid: 1b1a2e25-6a38-4e5b-b319-5f3252516c66
+uuid: 121209b2-8c7a-4ace-a8fa-2fdf2e8f87f4
 langcode: fr
 status: true
 dependencies:
@@ -133,8 +133,8 @@ display:
         options:
           submit_button: Appliquer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc

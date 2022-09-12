@@ -1,8 +1,0 @@
-uuid: 8736a008-2bed-4559-aab7-e7f6e2314727
-langcode: fr
-status: true
-dependencies: {  }
-id: 2e9ZfIfLFCC0V-PbcDKUTb1Wk22XgjzJ6f-b16CFlPE
-label: 'https://florilege.ddev.site'
-context:
-  language: fr

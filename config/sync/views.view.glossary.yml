@@ -1,4 +1,4 @@
-uuid: 9f0b959c-1824-4a02-be3e-aba211dd9a5b
+uuid: de42a3e9-77f8-4029-b581-b53bd0042623
 langcode: fr
 status: false
 dependencies:
@@ -195,19 +195,19 @@ display:
             previous: ‹‹
           expose:
             items_per_page: false
-            items_per_page_label: 'Items per page'
+            items_per_page_label: 'Éléments par page'
             items_per_page_options: '5, 10, 25, 50'
             items_per_page_options_all: false
-            items_per_page_options_all_label: '- All -'
+            items_per_page_options_all_label: '- Tout -'
             offset: false
-            offset_label: Offset
+            offset_label: Décalage
       exposed_form:
         type: basic
         options:
           submit_button: Appliquer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc

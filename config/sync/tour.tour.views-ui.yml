@@ -1,4 +1,4 @@
-uuid: bd1d1a54-4403-4948-85cb-bfa23e879240
+uuid: d47d9fbc-ab95-4fdf-9c1d-a10c65430b6b
 langcode: fr
 status: true
 dependencies:
@@ -81,7 +81,7 @@ tips:
   views-ui-preview:
     id: views-ui-preview
     plugin: text
-    label: Preview
+    label: Aperçu
     weight: 10
     position: right
     selector: '#preview-submit'

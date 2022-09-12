@@ -1,4 +1,4 @@
-uuid: 87253c9b-41f0-4f86-aa76-8f42bfe2603e
+uuid: a901b248-0e7d-42cb-b541-fd38f375331f
 langcode: fr
 status: true
 dependencies:
@@ -528,26 +528,26 @@ display:
           total_pages: null
           id: 0
           tags:
-            next: 'next ›'
-            previous: '‹ previous'
-            first: '« first'
-            last: 'last »'
+            next: "suivant\_›"
+            previous: "‹\_précédent"
+            first: "«\_premier"
+            last: "dernier\_»"
           expose:
             items_per_page: false
-            items_per_page_label: 'Items per page'
+            items_per_page_label: 'Éléments par page'
             items_per_page_options: '5, 10, 25, 50'
             items_per_page_options_all: false
-            items_per_page_options_all_label: '- All -'
+            items_per_page_options_all_label: '- Tout -'
             offset: false
-            offset_label: Offset
+            offset_label: Décalage
           quantity: 9
       exposed_form:
         type: basic
         options:
-          submit_button: Filter
+          submit_button: Filtrer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc

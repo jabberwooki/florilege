@@ -1,9 +1,9 @@
+web/sites/default/services.yml
 # Exports
 *.gz
 *.sql
 *.zip
 *.tar
-*.tar.gz
 # Allow committing a database to start an environment, corresponding with the current codebase (include commit hash in the filename)
 !/install/*.sql.*
 !/install/*.sql
@@ -14,7 +14,6 @@ npm-debug.log
 # File backups
 *.orig
 *.bak
-*.backup
 *.tmp
 
 # IDE related directories and files
@@ -73,3 +72,6 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 [Dd]esktop.ini
+
+# Fichiers history des commandes passées dans le terminal
+/history/
