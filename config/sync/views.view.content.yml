@@ -8,7 +8,7 @@ dependencies:
 _core:
   default_config_hash: vBKWYGGDoAX-tFd1JErB8tZLSxx3lJ0foouVsgpcbB4
 id: content
-label: Contenu
+label: Content
 module: node
 description: 'Trouver et gérer le contenu.'
 tag: default
@@ -21,7 +21,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
-      title: Contenu
+      title: Content
       fields:
         node_bulk_form:
           id: node_bulk_form
@@ -249,10 +249,10 @@ display:
       exposed_form:
         type: basic
         options:
-          submit_button: Filtrer
+          submit_button: Filter
           reset_button: true
-          reset_button_label: Réinitialiser
-          exposed_sorts_label: 'Trier par'
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sort by'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -593,14 +593,14 @@ display:
       path: admin/content/node
       menu:
         type: 'default tab'
-        title: Contenu
+        title: Content
         description: ''
         weight: -10
         menu_name: admin
         context: ''
       tab_options:
         type: normal
-        title: Contenu
+        title: Content
         description: 'Trouver et gérer le contenu'
         weight: -10
         menu_name: admin
