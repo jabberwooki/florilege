@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: fr
+uuid: 29e621be-aeb3-48f3-b5aa-21c21593edc2
+name: Florilège
+mail: admin@example.com
+slogan: 'La biodiversité pour l''agriculture en France'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: fr
